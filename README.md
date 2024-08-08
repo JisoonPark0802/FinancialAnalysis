@@ -5,7 +5,7 @@ Basic analysis of financial measures from data provided by Bank of Canada and ot
 
 ## Project Structure
 - `img/`: Contains examples of pivot charts created in Analysis.xlsx
-- 'data/': Contains data from Bank of Canada website
+- `data/`: Contains data from Bank of Canada website
 
 ## Preface
 My interest in investments and various financial instruments began in early 2019 when IBM repurchased its stock and prices rose around 15%. Since then, I occasionally perused exchanges (e.g. TSX, NYSE, Nasdaq, KSE, etc.) for companies that I had an interest in and continued to venture into this foreign, but exciting, world. However, my motivation eventually stagnated as I found hobbies with less risk of losing money.
