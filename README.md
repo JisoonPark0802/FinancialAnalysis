@@ -13,10 +13,14 @@ What rekindled my fire for investments was during COVID and the infamous GME sho
 
 I understand this project is a very basic analysis of very basic financial measures that are mostly irrelevant in terms of investment strategy (unless you are a true believer of the weak and semi-strong forms of the EMH), but I created this so I could authenticate some preconceptions that I had and look at fun patterns that match any national/worldwide events!
 
+
+
+
 ## Excel Analysis
 Utilized **IFERROR**,**VLOOKUP**, and some basic functions to merge and clean data from various csv files provided by sources below.
 
 Created various pivot tables and charts for analysis. Please see below for examples and check out the [excel file](./Analysis.xlsx) as well! 
+
 
 ### Pivot Charts (Check out the sheets in [my analysis](./Analysis.xlsx))
 
@@ -40,8 +44,12 @@ Created various pivot tables and charts for analysis. Please see below for examp
   <p>This chart shows the standard deviations of the various rates and CPI. The significant spike in 2022 and onwards highlight the increased volatility in financial markets and inflation during this period, reflecting the impact of BoC's monetary policy adjustments.</p>
 </div>
 
+
+
 ### Sources
 https://www.bankofcanada.ca/rates/
+
 https://www.bankofcanada.ca/rates/indicators/capacity-and-inflation-pressures/inflation/
+
 https://ca.investing.com/
 
