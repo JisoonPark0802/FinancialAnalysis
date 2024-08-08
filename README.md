@@ -15,6 +15,7 @@ I understand this project is a very basic analysis of very basic financial measu
 
 ## Excel Analysis
 Utilized **IFERROR**,**VLOOKUP**, and some basic functions to merge and clean data from various csv files provided by sources below.
+
 Created various pivot tables and charts for analysis. Please see below for examples and check out the [excel file](./Analysis.xlsx) as well! 
 
 ### Pivot Charts (Check out the sheets in [my analysis](./Analysis.xlsx))
